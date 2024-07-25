@@ -1,0 +1,31 @@
+PARCIAL DE NOTA AVALIAÇÃO 02
+
+1-2. OlaMundo
+• Realize a instalação e configuração do seu ambiente de desenvolvimento Kotlin.
+• Conforme exemplificação, realize a criação do projeto OlaMundo e de seu primeiro código completo.
+• Ajuste o conteúdo da variável name para seu nome completo.
+
+• Em seguida execute e veja se tudo correu bem.
+• Caso tenha ocorrido erros, tente identificar e corrigir.
+
+• Altere o programa anterior para ele mostrar o conteúdo da variável name,
+caractere por caractere.
+
+• Em seguida execute e veja se tudo correu bem.
+• Caso tenha ocorrido erros, tente identificar e corrigir.
+
+3. NomeIdade
+• Crie um novo projeto chamado NomeIdade e nele crie um programa que realize o seguinte:
+• Solicite para o usuário digitar no terminar seu nome e sua idade.
+• Na sequencia mostre no terminal os dados lidos no seguinte formato:
+• Nome lido você tem idade lida anos. • Para resolver este exercício pesquise sobre o método readLine() ou Scanner.
+• Para formatar a saída de forma mais facilitada, pesquise e aplique a sintaxe conhecida como cadeias de caracteres interpoladas.
+
+LABORATÓRIO PRÁTICO
+
+4. SubstituirNaFrase
+• Crie um programa em Kotlin que faça o seguinte: • Solicite ao usuário que insira uma frase.
+• Solicite ao usuário que insira uma palavra na frase que deseja substituir.
+• Solicite ao usuário que insira a nova palavra para substituir a palavra antiga.
+• Pesquise e utilize a função replace para substituir todas as ocorrências da palavra antiga pela nova palavra na frase.
+• Exiba a nova frase com as substituições.
